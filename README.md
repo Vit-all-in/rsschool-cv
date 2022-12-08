@@ -1,3 +1,5 @@
 # rsschool-cv
 
-[CV](https://github.com/Vit-all-in/rsschool-cv/blob/gh-pages/cv.md)
+https://vit-all-in.github.io/rsschool-cv/
+
+[CV](https://vit-all-in.github.io/rsschool-cv/cv)
