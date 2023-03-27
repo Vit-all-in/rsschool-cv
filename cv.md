@@ -56,5 +56,7 @@ I have little experience in JS and Frontend development. I have worked on severa
 
 - JS, CSS, HTML video courses on YouTube
 - JavaScript https://learn.javascript.ru/
-- MDN https://developer.mozilla.org/
+- MDN https://developer.mozilla.org/ru/
 
+### Language
+English level - A2
